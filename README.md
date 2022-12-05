@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @winnux82
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning c#
+- 🌱 I’m currently learning c# & JS
 - 💞️ I’m looking to collaborate on iepsm
 - 📫 How to reach me : vandermeulen.christophe@gmail.com
 
