@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @winnux82
+- 👋 Hi, I’m Vandermeulen Christophe alias @WnX
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning c# & JS
 - 💞️ I’m looking to collaborate on iepsm
